@@ -1,2 +1,2 @@
 # hello-world
-1st repo to say hello to everyone :)
+1st repo to say hello to Everyone :)
